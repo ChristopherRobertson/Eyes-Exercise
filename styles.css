@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: white;
+    background: Black;
   }
   
   .eyes {
@@ -14,7 +14,7 @@ body {
   .eye {
     width: 240px;
     height: 120px;
-    background: #282C2C;
+    background: White;
     display: inline-block;
     margin: 40px;
     border-radius: 50%;
