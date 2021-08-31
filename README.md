@@ -3,7 +3,7 @@
 ## Description
 In this exercise divs are created on the screen that track the mouse movement that mimics the momement of two eyes. 
 
-## Useage
+## Usage
 
 Clone the repository to your local machine then load the index.html file into the broswer. Move the mouse around to watch the pupils of the eyes track the mouse around the browser
 
